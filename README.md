@@ -26,3 +26,11 @@ I'm an electrical engineer working with renewable energy datasets. I'm expanding
 <br />
 
 #
+
+### 📊 Stats
+
+![Renz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techWithRenZ&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=techWithRenZ&theme=gruvbox&border_radius=4.5) -->
+
+#
