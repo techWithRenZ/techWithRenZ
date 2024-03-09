@@ -1,4 +1,8 @@
-### Hi there 👋
+# 👨‍💻👨🏻‍🔬 Renz Linga
+
+**'Electrical Engineer (Data Analyst/Machine Learning Engineer/Content Creator)'**
+
+I'm an electrical engineer working with renewable energy datasets. I'm expanding my tech skillset, currently focusing on data analytics, machine learning, and web development. I also run the YouTube channel "[Tech with Ren-Z][https://www.youtube.com/channel/UCsDobvS6DS9Yk1KJHd8K22A]" with 76 subscribers.
 
 <!--
 **techWithRenZ/techWithRenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
