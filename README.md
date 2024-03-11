@@ -3,7 +3,7 @@
 
 **`Data Analyst (Machine Learning Engineer/Content Creator/Electrical Engineer)`**
 
-I'm an electrical engineer working with renewable energy datasets. I'm expanding my tech skillset, currently focusing on data analytics, machine learning, and web development. I also run the YouTube channel "[Tech with Ren-Z](https://www.youtube.com/channel/UCsDobvS6DS9Yk1KJHd8K22A)" where I teach statistics currently with 76 subscribers.
+I'm an electrical engineer working with renewable energy datasets. I'm expanding my tech skillset, focusing on data analytics, machine learning, and web development. I also run the YouTube channel "[Tech with Ren-Z](https://www.youtube.com/channel/UCsDobvS6DS9Yk1KJHd8K22A)", currently with 76 subscribers, where I post content about tech.
 
    <p align="left">
       <a href="https://www.youtube.com/TechwithRen-Z?sub_confirmation=1">
