@@ -1,7 +1,7 @@
 <!-- Bio -->
 # 👨‍💻👨🏻‍🔬 Hi, I'm Renz!
 
-**`Data Analyst (Aspiring Machine Learning Engineer/Content Creator/Electrical Engineer)`**
+**`Data Analyst (Content Creator/Electrical Engineer)`**
 
 I'm an engineer working with renewable energy datasets. Currently, I'm on an exciting journey to expand my expertise in data analytics and machine learning, aiming to unlock new insights and drive innovation in businesses. I also share my knowledge and passion through my YouTube channel "[Tech with Ren-Z](https://www.youtube.com/channel/UCsDobvS6DS9Yk1KJHd8K22A)", currently with 85 subscribers, where I post contents about the lastest in technology.
 
