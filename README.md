@@ -3,7 +3,9 @@
 
 **`Data Analyst (Aspiring Machine Learning Engineer/Content Creator/Electrical Engineer)`**
 
-I'm an electrical engineer working with renewable energy datasets. I'm expanding my tech skillset, focusing on data analytics, machine learning, and web development. I also run the YouTube channel "[Tech with Ren-Z](https://www.youtube.com/channel/UCsDobvS6DS9Yk1KJHd8K22A)", currently with 76 subscribers, where I post content about tech.
+I'm an engineer working with renewable energy datasets. Currently, I'm on an exciting journey to expand my expertise in data analytics and machine learning, aiming to unlock new insights and drive innovation in businesses. I also share my knowledge and passion through my YouTube channel "[Tech with Ren-Z](https://www.youtube.com/channel/UCsDobvS6DS9Yk1KJHd8K22A)", currently with 85 subscribers, where I post contents about the lastest in technology.
+
+If you want to check out my data analysis projects, please click on the pinned projects below. Thanks for your time!
 
    <p align="left">
       <a href="https://www.youtube.com/TechwithRen-Z?sub_confirmation=1">
